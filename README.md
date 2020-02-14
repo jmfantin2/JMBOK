@@ -14,3 +14,5 @@ https://css-tricks.com/equidistant-objects-with-css/
 https://www.npmjs.com/package/write-json-file
 
 https://github.com/sindresorhus/load-json-file
+
+https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764
