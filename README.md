@@ -8,3 +8,5 @@ https://reacttraining.com/react-router/web/example/query-parameters
 https://developers.google.com/books/docs/v1/reference/volumes/get
 
 https://stackoverflow.com/questions/11375173/google-books-api-returns-only-10-results
+
+https://css-tricks.com/equidistant-objects-with-css/
