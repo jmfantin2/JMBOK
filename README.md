@@ -12,3 +12,5 @@ https://stackoverflow.com/questions/11375173/google-books-api-returns-only-10-re
 https://css-tricks.com/equidistant-objects-with-css/
 
 https://www.npmjs.com/package/write-json-file
+
+https://github.com/sindresorhus/load-json-file
