@@ -1,18 +1,28 @@
 # JMBOK
-articles and useful info about the things i'm working on
+useful info about the things i've stumbled upon
 
-https://webpack.js.org/api/module-methods/
+- [Setup](#setup)
+  * [Firebase](#firebase)
+- [Code](#code)
+  * [Javascript](#javascript)
+  * [ReactJS](#reactjs)
+  * [Styling](#styling)
 
-https://reacttraining.com/react-router/web/example/query-parameters
+## Setup
 
-https://developers.google.com/books/docs/v1/reference/volumes/get
+### Firebase
 
-https://stackoverflow.com/questions/11375173/google-books-api-returns-only-10-results
+[Integration with React Native](https://blog.jscrambler.com/integrating-firebase-with-react-native/)
 
-https://css-tricks.com/equidistant-objects-with-css/
+## Code
 
-https://www.npmjs.com/package/write-json-file
+### Javascript
+[Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
 
-https://github.com/sindresorhus/load-json-file
+### ReactJS
+[Router: query parameters](https://reacttraining.com/react-router/web/example/query-parameters)
 
-https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764
+### Styling
+[CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/)
+
+
