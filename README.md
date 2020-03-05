@@ -7,7 +7,9 @@ useful info about the things i've stumbled upon
   * [Javascript](#javascript)
   * [ReactJS](#reactjs)
   * [Styling](#styling)
-
+- [High level stuff](#high-level-stuff)
+  * [Observer pattern](#observer-pattern)
+  
 ## Setup
 
 ### Firebase
@@ -25,4 +27,8 @@ useful info about the things i've stumbled upon
 ### Styling
 [CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/)
 
+## High level stuff
+
+### Observer pattern
+[Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
 
