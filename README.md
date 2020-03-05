@@ -22,6 +22,7 @@ useful info about the things i've stumbled upon
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
 
 ### ReactJS
+[Iniciando com Redux](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf)
 [Router: query parameters](https://reacttraining.com/react-router/web/example/query-parameters)
 
 ### Styling
