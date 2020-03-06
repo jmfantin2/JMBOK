@@ -36,5 +36,14 @@ useful info about the things i've stumbled upon
 ## High level stuff
 
 ### Observer pattern
-[Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
+[Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ) 
+  
+## Troubleshooting
 
+### Nets and ports
+
+[Kill process using a port (Windows)](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) 
+
+### Environment variables 
+
+[Set the JAVA_HOME variable](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
