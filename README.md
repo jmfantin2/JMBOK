@@ -40,6 +40,12 @@ useful info about the things i've stumbled upon
 
 ### Observer pattern
 [Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ) 
+
+### Frameworks 
+
+[What's Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
+
+[Flutter: Construindo uma linda aplicação de notícias](https://medium.com/collabcode/flutter-construindo-uma-linda-aplicação-de-notícias-parte-1-f0cbeecb7ab)
   
 ## Troubleshooting
 
