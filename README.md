@@ -9,6 +9,9 @@ useful info about the things i've stumbled upon
   * [Styling](#styling)
 - [High level stuff](#high-level-stuff)
   * [Observer pattern](#observer-pattern)
+- [Troubleshooting](#troubleshooting)
+  * [Nets and ports](#nets-and-ports)
+  * [Environment variables](#environment-variables)
   
 ## Setup
 
