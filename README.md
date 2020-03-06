@@ -28,6 +28,8 @@ useful info about the things i've stumbled upon
 
 [Router: query parameters](https://reacttraining.com/react-router/web/example/query-parameters)
 
+[Manage Global State with React Hooks](https://medium.com/@Charles_Stover/manage-global-state-with-react-hooks-6065041b55b4)
+
 ### Styling
 [CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/)
 
