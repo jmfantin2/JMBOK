@@ -9,10 +9,11 @@ useful info about the things i've stumbled upon
   * [ReactJS](#reactjs)
   * [Styling](#styling)
 - [High level stuff](#high-level-stuff)
+  * [Frameworks](#frameworks)
   * [Observer pattern](#observer-pattern)
 - [Troubleshooting](#troubleshooting)
-  * [Nets and ports](#nets-and-ports)
   * [Environment variables](#environment-variables)
+  * [Nets and ports](#nets-and-ports)
   
 ## Setup
 
@@ -41,23 +42,26 @@ useful info about the things i've stumbled upon
 ### Styling
 [CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/)
 
-## High level stuff
-
-### Observer pattern
-[Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ) 
+## High level stuff 
 
 ### Frameworks 
 
 [What's Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 
-[Flutter: Construindo uma linda aplicação de notícias](https://medium.com/collabcode/flutter-construindo-uma-linda-aplicação-de-notícias-parte-1-f0cbeecb7ab)
+[Flutter: Construindo uma linda aplicação de notícias](https://medium.com/collabcode/flutter-construindo-uma-linda-aplicação-de-notícias-parte-1-f0cbeecb7ab) 
+
+[Finished! Porting a 75,000 line native iOS app to Flutter](https://medium.com/flutter-community/finished-porting-a-75-000-line-native-ios-app-to-flutter-b5c0bff93715)
+
+### Observer pattern 
+
+[Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
   
 ## Troubleshooting
-
-### Nets and ports
-
-[Kill process using a port (Windows)](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) 
 
 ### Environment variables 
 
 [Set the JAVA_HOME variable](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+
+### Nets and ports
+
+[Kill process using a port (Windows)](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) 
