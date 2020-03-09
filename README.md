@@ -3,6 +3,7 @@ useful info about the things i've stumbled upon
 
 - [Setup](#setup)
   * [Firebase](#firebase)
+  * [Flutter](#flutter)
 - [Code](#code)
   * [Javascript](#javascript)
   * [ReactJS](#reactjs)
@@ -18,6 +19,10 @@ useful info about the things i've stumbled upon
 ### Firebase
 
 [Integration with React Native](https://blog.jscrambler.com/integrating-firebase-with-react-native/)
+
+### Flutter
+
+[Instalando o Flutter no Linux](https://medium.com/sysvale/instalando-o-flutter-no-linux-fa3a8db67180)
 
 ## Code
 
