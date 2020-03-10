@@ -5,6 +5,7 @@ useful info about the things i've stumbled upon
   * [Firebase](#firebase)
   * [Flutter](#flutter)
 - [Code](#code)
+  * [GraphQL](#graphql)
   * [Javascript](#javascript)
   * [ReactJS](#reactjs)
   * [Styling](#styling)
@@ -26,6 +27,10 @@ useful info about the things i've stumbled upon
 [Instalando o Flutter no Linux](https://medium.com/sysvale/instalando-o-flutter-no-linux-fa3a8db67180)
 
 ## Code
+
+### GraphQL
+
+[Learning GraphQL by building a chat application](https://dev.to/ricardo93borges/learning-graphql-by-building-a-chat-application-part-1-1n2k)
 
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
