@@ -2,6 +2,7 @@
 useful info about the things i've stumbled upon
 
 - [Setup](#setup)
+  * [Expo](#expo)
   * [Firebase](#firebase)
   * [Flutter](#flutter)
 - [Code](#code)
@@ -16,7 +17,10 @@ useful info about the things i've stumbled upon
   * [Environment variables](#environment-variables)
   * [Nets and ports](#nets-and-ports)
   
-## Setup
+## Setup 
+
+### Expo 
+[Using Custom Fonts](https://docs.expo.io/versions/latest/guides/using-custom-fonts/)
 
 ### Firebase
 
@@ -34,6 +38,8 @@ useful info about the things i've stumbled upon
 
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
+
+### React Native
 
 ### ReactJS
 [Iniciando com Redux](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) 
