@@ -7,6 +7,7 @@ useful info about the things i've stumbled upon
   * [Flutter](#flutter)
 - [Code](#code)
   * [GraphQL](#graphql)
+  * [Flutter](#flutter)
   * [Javascript](#javascript)
   * [ReactJS](#reactjs)
   * [Styling](#styling)
@@ -36,6 +37,9 @@ useful info about the things i've stumbled upon
 
 [Learning GraphQL by building a chat application](https://dev.to/ricardo93borges/learning-graphql-by-building-a-chat-application-part-1-1n2k)
 
+### Flutter
+[Space between column children](https://stackoverflow.com/questions/52774921/space-between-columns-children-in-flutter)
+
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
 
@@ -58,6 +62,8 @@ useful info about the things i've stumbled upon
 ### Frameworks 
 
 [What's Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
+
+[Flutter for React Native developers](https://flutter.dev/docs/get-started/flutter-for/react-native-devs)
 
 [Flutter: Construindo uma linda aplicação de notícias](https://medium.com/collabcode/flutter-construindo-uma-linda-aplicação-de-notícias-parte-1-f0cbeecb7ab) 
 
