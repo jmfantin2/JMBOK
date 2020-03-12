@@ -38,7 +38,9 @@ useful info about the things i've stumbled upon
 [Learning GraphQL by building a chat application](https://dev.to/ricardo93borges/learning-graphql-by-building-a-chat-application-part-1-1n2k)
 
 ### Flutter
-[Space between column children](https://stackoverflow.com/questions/52774921/space-between-columns-children-in-flutter)
+[Space between column children](https://stackoverflow.com/questions/52774921/space-between-columns-children-in-flutter) 
+
+[How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
 
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
