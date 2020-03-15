@@ -17,6 +17,8 @@ useful info about the things i've stumbled upon
 - [Troubleshooting](#troubleshooting)
   * [Environment variables](#environment-variables)
   * [Nets and ports](#nets-and-ports)
+- [Operational Systems](#operational-systems)
+  * [Ubuntu](#ubuntu)
   
 ## Setup 
 
@@ -79,8 +81,14 @@ useful info about the things i've stumbled upon
 
 ### Environment variables 
 
-[Set the JAVA_HOME variable](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
+[Set the JAVA_HOME variable (Windows)](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
 
 ### Nets and ports
 
 [Kill process using a port (Windows)](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) 
+
+## Operational Systems
+
+### Ubuntu 
+
+[How to Remove Top Bar Application Menu in Ubuntu](http://ubuntuhandbook.org/index.php/2020/01/remove-top-bar-application-menu-ubuntu-19-10-18-04/)
