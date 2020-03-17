@@ -47,12 +47,15 @@ useful info about the things i've stumbled upon
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
 
-### React Native
+### React Native 
+[Mobx React Native Tutorial: Getting Started (video)](https://www.youtube.com/watch?v=Hy0Xg6p1VB4)
 
 ### ReactJS
 [Iniciando com Redux](https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf) 
 
 [Convertendo um Class Based Component para React Hooks](https://willianjusten.com.br/convertendo-um-class-based-component-para-react-hooks/) 
+
+[React Hooks + MobX TodoList](https://levelup.gitconnected.com/react-hooks-mobx-todolist-c138eb4f3d04)
 
 [Router: query parameters](https://reacttraining.com/react-router/web/example/query-parameters)
 
