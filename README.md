@@ -5,10 +5,12 @@ useful info about the things i've stumbled upon
   * [Expo](#expo)
   * [Firebase](#firebase)
   * [Flutter](#flutter)
+  * [React Native](#react-native)
 - [Code](#code)
   * [GraphQL](#graphql)
   * [Flutter](#flutter)
   * [Javascript](#javascript)
+  * [React Native](#react-native)
   * [ReactJS](#reactjs)
   * [Styling](#styling)
 - [High level stuff](#high-level-stuff)
@@ -32,6 +34,10 @@ useful info about the things i've stumbled upon
 ### Flutter
 
 [Instalando o Flutter no Linux](https://medium.com/sysvale/instalando-o-flutter-no-linux-fa3a8db67180)
+
+### React Native
+
+[React Native App use TypeScript](https://dev.to/tuantvk/react-native-app-without-typescript-custom-component-react-native-flawless-ui-1cco)
 
 ## Code
 
