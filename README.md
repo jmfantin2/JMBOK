@@ -50,6 +50,8 @@ useful info about the things i've stumbled upon
 
 [How to parse Json in Flutter for Beginners](https://medium.com/flutter-community/how-to-parse-json-in-flutter-for-beginners-8074a68d7a79)
 
+[ListView.builder gives error: RenderBox was not laid out](https://stackoverflow.com/questions/55204328/listview-builder-gives-error-renderbox-was-not-laid-out)
+
 ### Javascript
 [Append objects in JSON local storage](https://stackoverflow.com/questions/19902670/append-objects-in-local-storage/19902764)
 
