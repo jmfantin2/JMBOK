@@ -6,6 +6,7 @@ useful info about the things i've stumbled upon
   * [Firebase](#firebase)
   * [Flutter](#flutter)
   * [React Native](#react-native)
+  * [ReactJS](#reactjs)
 - [Code](#code)
   * [GraphQL](#graphql)
   * [Flutter](#flutter)
@@ -38,6 +39,10 @@ useful info about the things i've stumbled upon
 ### React Native
 
 [React Native App use TypeScript](https://dev.to/tuantvk/react-native-app-without-typescript-custom-component-react-native-flawless-ui-1cco)
+
+### ReactJS 
+
+[Server-side rendering (SSR) com ReactJS e Next.js](https://blog.rocketseat.com.br/ssr-nextjs-reactjs/)
 
 ## Code
 
