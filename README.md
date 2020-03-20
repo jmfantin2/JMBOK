@@ -89,6 +89,8 @@ useful info about the things i've stumbled upon
 
 [Finished! Porting a 75,000 line native iOS app to Flutter](https://medium.com/flutter-community/finished-porting-a-75-000-line-native-ios-app-to-flutter-b5c0bff93715)
 
+[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)
+
 ### Observer pattern 
 
 [Observer pattern explained (video)](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
