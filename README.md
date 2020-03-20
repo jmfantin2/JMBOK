@@ -75,7 +75,9 @@ useful info about the things i've stumbled upon
 [Manage Global State with React Hooks](https://medium.com/@Charles_Stover/manage-global-state-with-react-hooks-6065041b55b4)
 
 ### Styling
-[CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/)
+[CSS: equidistant elements](https://css-tricks.com/equidistant-objects-with-css/) 
+
+[What is the meaning of xs, md, lg in CSS Flexbox system?](https://stackoverflow.com/questions/43445592/what-is-the-meaning-of-xs-md-lg-in-css-flexbox-system/43446554)
 
 ## High level stuff 
 
