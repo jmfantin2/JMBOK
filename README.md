@@ -22,6 +22,7 @@ useful info about the things i've stumbled upon
   * [Nets and ports](#nets-and-ports)
 - [Operational Systems](#operational-systems)
   * [Ubuntu](#ubuntu)
+  * [Linux](#linux)
   
 ## Setup 
 
@@ -112,3 +113,7 @@ useful info about the things i've stumbled upon
 ### Ubuntu 
 
 [How to Remove Top Bar Application Menu in Ubuntu](http://ubuntuhandbook.org/index.php/2020/01/remove-top-bar-application-menu-ubuntu-19-10-18-04/)
+
+### Linux
+
+[How to install FiraCode font on Linux](https://gist.github.com/nikhita/95f1314f14cf613e78106eb9b89059e1)
