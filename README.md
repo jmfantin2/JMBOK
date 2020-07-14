@@ -29,6 +29,8 @@ useful info about the things i've stumbled upon
 ### Expo 
 [Using Custom Fonts](https://docs.expo.io/versions/latest/guides/using-custom-fonts/)
 
+[Absolute paths with Typescript](https://forums.expo.io/t/unable-to-resolve-absolute-paths-with-expo-and-typescript/34553/2)
+
 ### Firebase
 
 [Integration with React Native](https://blog.jscrambler.com/integrating-firebase-with-react-native/)
