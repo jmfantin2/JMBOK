@@ -47,6 +47,8 @@ useful info about the things i've stumbled upon
 
 [Server-side rendering (SSR) com ReactJS e Next.js](https://blog.rocketseat.com.br/ssr-nextjs-reactjs/)
 
+[How to Add Custom Local Fonts to Next.js and Vercel](https://kirazhang.com/posts/nextjs-custom-fonts)
+
 ## Code
 
 ### GraphQL
