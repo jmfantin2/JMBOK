@@ -54,6 +54,8 @@ useful info about the things i've stumbled upon
 
 [How to Add Custom Local Fonts to Next.js and Vercel](https://kirazhang.com/posts/nextjs-custom-fonts)
 
+[NextJs - React Framework - Global CSS Imports](https://www.youtube.com/watch?v=KSbjwY6pSOI)
+
 ## Code
 
 ### GraphQL
