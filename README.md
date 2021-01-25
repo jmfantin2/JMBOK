@@ -56,6 +56,8 @@ useful info about the things i've stumbled upon
 
 [NextJs - React Framework - Global CSS Imports](https://www.youtube.com/watch?v=KSbjwY6pSOI)
 
+[Next.js with Material-UI](https://itnext.io/next-js-with-material-ui-7a7f6485f671)
+
 ## Code
 
 ### GraphQL
