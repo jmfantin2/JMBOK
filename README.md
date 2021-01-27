@@ -58,6 +58,8 @@ useful info about the things i've stumbled upon
 
 [Next.js with Material-UI](https://itnext.io/next-js-with-material-ui-7a7f6485f671)
 
+[Build responsive PWA using Next.js](https://rockyli.medium.com/build-responsive-pwa-using-next-js-ac437adac5b3)
+
 ## Code
 
 ### GraphQL
